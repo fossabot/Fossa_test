@@ -156,6 +156,7 @@ ludwig visualize --visualization learning_curves --statistics path/to//training_
 The commands will display a graph that looks like the following, where you can see loss and accuracy as functions of train iteration number:
 
 ![Learning Curves](https://raw.githubusercontent.com/uber/ludwig/master/docs/images/getting_started_learning_curves.png "Learning Curves")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLuukvDamme%2FFossa_test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLuukvDamme%2FFossa_test?ref=badge_shield)
 
 Several visualizations are available, please refer to [Visualizations](http://uber.github.io/ludwig/user_guide/#visualizations) for more details.
 
@@ -228,3 +229,7 @@ Full documentation
 ------------------
 
 You can find the full documentation [here](http://uber.github.io/ludwig/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLuukvDamme%2FFossa_test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLuukvDamme%2FFossa_test?ref=badge_large)
